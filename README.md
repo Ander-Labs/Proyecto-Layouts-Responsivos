@@ -1,2 +1,3 @@
-# Proyecto-Layouts-Responsivos
-Formación Front End G4 - ONE
+# Proyecto Apeperia
+
+Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
